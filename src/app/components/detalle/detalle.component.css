@@ -1,0 +1,12 @@
+.container{
+  padding: 3%;
+}
+
+#personaje{
+background: rgba(0, 0, 0, 0.29)!important;
+border-radius: 22px!important;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+backdrop-filter: blur(5px)!important;
+-webkit-backdrop-filter: blur(5px)!important;
+border: 1px solid rgba(0, 0, 0, 0.3)!important;
+}
